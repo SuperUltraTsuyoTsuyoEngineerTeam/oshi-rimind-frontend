@@ -27,8 +27,8 @@ dependencies:
     specifier: 13.5.6
     version: 13.5.6(react-dom@18.2.0)(react@18.2.0)
   openai:
-    specifier: ^4.12.4
-    version: 4.12.4
+    specifier: ^4.26.0
+    version: 4.26.0
   postcss:
     specifier: 8.4.31
     version: 8.4.31
@@ -2150,8 +2150,8 @@ packages:
       mimic-fn: 4.0.0
     dev: true
 
-  /openai@4.12.4:
-    resolution: {integrity: sha512-oPNVJkpgxDUKF6WGGdHEZh5m/kjmYxS2Y1q7YVFCkvKUGthb8OGYRGCFBRPq5CQJezifzABTZRlVYnXLd6L4vQ==}
+  /openai@4.26.0:
+    resolution: {integrity: sha512-HPC7tgYdeP38F3uHA5WgnoXZyGbAp9jgcIo23p6It+q/07u4C+NZ8xHKlMShsPbDDmFRpPsa3vdbXYpbhJH3eg==}
     hasBin: true
     dependencies:
       '@types/node': 18.17.14
